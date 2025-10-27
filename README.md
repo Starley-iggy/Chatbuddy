@@ -71,6 +71,8 @@ Chatbuddy: Let's play 'Guess the Number'! I'm thinking of a number between 1 and
 - [ ] Personality modes (friendly, sarcastic, chill, energetic)
 - [ ] Daily greeting (based on time of day)
 - [ ] Motivational quotes
+
+      
 🟡 Intermediate Features
 
 ✅ Live weather with API key
