@@ -1,4 +1,4 @@
-Chatbuddy — Python Chatbot
+Chatbuddy Python Chatbot
 
 Chatbudy is a fun, terminal-based chatbot written in Python.  
 It can **chat**, **do math**, **play games**, **tell jokes**, **fetch weather**, **remember your name**, and more all from your terminal window.
